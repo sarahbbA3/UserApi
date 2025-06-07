@@ -120,4 +120,7 @@ VALUES (N'20250607144411_Init', N'9.0.5');
 COMMIT;
 GO
 
+Diagrama de la solución
+![image](https://github.com/user-attachments/assets/b62a11ef-b98b-4faf-8af8-6576db3cafa4)
+
 
